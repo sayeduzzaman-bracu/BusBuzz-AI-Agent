@@ -5,6 +5,12 @@ Designed with advanced prompt engineering, controlled reasoning paths, and reali
 
 ---
 
+## Real-World Use Case
+
+BusBuzz is designed for intercity bus operators or ticketing platforms that need a customer support agent to handle booking questions, discount logic, seat availability concerns, and complaint escalation in a safe and realistic way.
+
+---
+
 ## 🚀 Key Capabilities
 
 - **Multi-step reasoning** for complex ticket queries  
