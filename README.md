@@ -33,6 +33,16 @@ BusBuzz is designed for intercity bus operators or ticketing platforms that need
 
 ---
 
+## Technologies Used
+
+- Python
+- OpenAI / LLM APIs
+- Prompt Engineering
+- Structured conversation design
+- Modular workflow architecture
+  
+---
+
 ## 🏆 Competition Result
 
 BusBuzz ranked **Second Place** at the **AgentX AI Support Automation Challenge**, recognized for:
