@@ -1,5 +1,7 @@
 # BusBuzz-AI-Agent
 
+🏆 Second Prize – AgentX AI Support Automation Challenge 2025
+
 **BusBuzz** is an award-winning AI agent built for automated intercity bus ticket support.  
 Designed with advanced prompt engineering, controlled reasoning paths, and realistic customer interaction flows, BusBuzz secured **Second Prize**🥈 in the AgentX Challenge 2025.
 
