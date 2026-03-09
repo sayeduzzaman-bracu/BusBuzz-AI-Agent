@@ -69,3 +69,12 @@ This project demonstrates expertise in crafting controlled, production-ready AI 
 - Live API integration  
 - User interface (web/app)  
 - Multi-language support (Bangla + English)
+
+## Related Projects
+
+**Python Data Cleaning Automation**
+
+Automation tool for cleaning messy Excel/CSV datasets using Python.
+
+Repository:
+https://github.com/sayeduzzaman-bracu/excel-data-cleaning-automation
